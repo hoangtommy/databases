@@ -1,1 +1,1 @@
-This project has a few exercises to solidify what I learned about databases and SQL.
+This project has a few exercises to solidify what I learned about databases and SQL. I followed the exercises from http://sqlzoo.net/wiki/SQL_Tutorial but note I skipped some exercises due to redunancy in practicer.
